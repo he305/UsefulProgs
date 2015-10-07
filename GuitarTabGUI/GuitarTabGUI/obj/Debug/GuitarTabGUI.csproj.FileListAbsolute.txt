@@ -1,0 +1,12 @@
+C:\Dropbox\Programs\GuitarTabGUI\GuitarTabGUI\bin\Debug\GuitarTabGUI.exe.config
+C:\Dropbox\Programs\GuitarTabGUI\GuitarTabGUI\bin\Debug\GuitarTabGUI.exe
+C:\Dropbox\Programs\GuitarTabGUI\GuitarTabGUI\bin\Debug\GuitarTabGUI.pdb
+C:\Dropbox\Programs\GuitarTabGUI\GuitarTabGUI\obj\Debug\GuitarTabGUI.csprojResolveAssemblyReference.cache
+C:\Dropbox\Programs\GuitarTabGUI\GuitarTabGUI\obj\Debug\GuitarTabGUI.MainWindow.resources
+C:\Dropbox\Programs\GuitarTabGUI\GuitarTabGUI\obj\Debug\GuitarTabGUI.Properties.Resources.resources
+C:\Dropbox\Programs\GuitarTabGUI\GuitarTabGUI\obj\Debug\GuitarTabGUI.csproj.GenerateResource.Cache
+C:\Dropbox\Programs\GuitarTabGUI\GuitarTabGUI\obj\Debug\GuitarTabGUI.exe
+C:\Dropbox\Programs\GuitarTabGUI\GuitarTabGUI\obj\Debug\GuitarTabGUI.pdb
+C:\Dropbox\Programs\GuitarTabGUI\GuitarTabGUI\bin\Debug\xNet.dll
+C:\Dropbox\Programs\GuitarTabGUI\GuitarTabGUI\bin\Debug\xNet.xml
+C:\Dropbox\Programs\GuitarTabGUI\GuitarTabGUI\obj\Debug\GuitarTabGUI.Tabs.resources
