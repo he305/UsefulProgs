@@ -135,7 +135,7 @@ function AutoPXLS(images){
 
             App.switchColor(color_id);
             App.attemptPlace ( (parseInt(x) + parseInt(coords["x"])), (parseInt(y) + parseInt(coords["y"])) );
-            return 20;
+            return 5;
           }
         }
       }
